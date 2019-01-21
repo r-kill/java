@@ -1,2 +1,1 @@
-# java
-Programs that are written in Java.
+See file in Assembly repository for readme template.
