@@ -54,7 +54,7 @@ public class Craps {
                 gameStatus = Status.WON;
             } else if (sumDice == SEVEN) {
                 gameStatus = Status.LOST;
-            }//end If//end If Else
+            }//end If Else
         }//end While
 
         if (gameStatus == Status.WON) {
