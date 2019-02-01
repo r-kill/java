@@ -1,2 +1,2 @@
 # Describe programs
-The two programs compare similar for and while loops.
+The programs compare different loops that perform the same action.
